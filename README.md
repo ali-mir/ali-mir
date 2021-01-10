@@ -1,2 +1,2 @@
 # 👋🏽 distributed systems @ mongodb
-working with consensus algorithms, fault tolerance, and concurrent programming
+working on consensus algorithms, fault tolerance, and concurrent programming
