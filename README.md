@@ -1,1 +1,1 @@
-# 👋🏽 distributed systems @ mongodb
+👋🏽 distributed systems @ mongodb
