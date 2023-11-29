@@ -1,3 +1,3 @@
-👋🏽 distributed systems @ mongodb
+👋🏽 engineering @ MongoDB
 
-ali-mir.com
+[ali-mir.com](http://ali-mir.com)
